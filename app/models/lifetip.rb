@@ -1,0 +1,2 @@
+class Lifetip < ApplicationRecord
+end
