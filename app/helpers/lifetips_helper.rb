@@ -1,0 +1,2 @@
+module LifetipsHelper
+end
