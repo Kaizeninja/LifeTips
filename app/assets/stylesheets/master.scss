@@ -1,4 +1,5 @@
 @import "bootstrap";
+@import "font-awesome";
 
 
 body {
@@ -6,9 +7,7 @@ body {
   }
 
   .nav-item {
-    font-family: "Helvetica Neue", Helvetica;
-    font-weight: 150;
-    color: white;
+    font-family: 'Times New Roman', Times, serif
   }
 
   .booyah-box {
