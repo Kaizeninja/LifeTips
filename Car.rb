@@ -1,4 +1,4 @@
-class Car
+git adclass Car
     attr_accessor :model, :color
 
     def initialize(model, color)
